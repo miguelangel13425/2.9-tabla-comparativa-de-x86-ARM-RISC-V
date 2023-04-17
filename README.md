@@ -1,0 +1,1 @@
+# 2.9-tabla-comparativa-de-x86-ARM-RISC-V
